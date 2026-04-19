@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mona Savita</h1>
 
-<h2 align="center">🚀 AWS DevOps Engineer | Cloud | Automation | Docker & K8s </h2>
+<h2 align="center">🚀 AWS DevOps Engineer | Cloud | Automation | Docker & Kubernetes </h2>
 
 <img width="1865" height="218" alt="image" src="https://github.com/user-attachments/assets/07c28b6e-c515-4f70-a3d9-91cfe249b40b" />
 
