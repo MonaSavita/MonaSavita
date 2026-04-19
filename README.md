@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mona Savita</h1>
 
-<h2 align="center">🚀 AWS DevOps Engineer | Cloud | Automation | Kubernetes</h2>
+<h2 align="center">🚀 AWS DevOps Engineer | Cloud | Automation | Docker & K8s </h2>
 
 <img width="1865" height="218" alt="image" src="https://github.com/user-attachments/assets/07c28b6e-c515-4f70-a3d9-91cfe249b40b" />
 
@@ -9,7 +9,7 @@
 
 ### 👩‍💻 About Me
 
-I'm a DevOps Engineer with 4+ years of experience in building, automating, and securing cloud infrastructure on AWS.
+I'm a DevOps Engineer with 4.5+ years of experience in building, automating, and securing cloud infrastructure on AWS.
 
 - 🔧 I love automating everything using **Terraform, Python & Ansible**
 - ☁️ Working on **AWS Cloud (WAF, Shield, Lambda, CloudWatch, VPC, S3)**
@@ -49,7 +49,7 @@ I'm a DevOps Engineer with 4+ years of experience in building, automating, and s
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MonaSavita&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -63,6 +63,7 @@ I'm a DevOps Engineer with 4+ years of experience in building, automating, and s
 - Advanced Kubernetes (EKS)
 - DevOps System Design
 - Cloud Security Best Practices
+- Preparing for AWS Solution Architect Professional Certification
 
 ---
 
@@ -75,4 +76,4 @@ I'm a DevOps Engineer with 4+ years of experience in building, automating, and s
 
 ### ⚡ Fun Fact
 
-I love turning complex infrastructure into simple automated systems 🚀
+I love turning complex infrastructure into simple automated systems with security 🚀
